@@ -6,7 +6,7 @@ import java.util.List;
 
 public class estadisticaJugador extends JFrame {
     private JPanel panel1;
-    private JTextField nombreJugadorTextField;
+
     private JTextField golesTextField;
     private JTextField asistenciasTextField;
     private JTextField tarjetasAmarrillasTextField;
